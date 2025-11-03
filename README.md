@@ -1,16 +1,30 @@
-# lab7
 
-A new Flutter project.
+---
 
-## Getting Started
+## 💾 **Project 7 – Expense Tracker (Local Storage)**
 
-This project is a starting point for a Flutter application.
+```markdown
+# 💰 Expense Tracker
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Goal
+Save and visualize expense data locally.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧩 Description
+Record daily expenses and view statistics (charts & summaries).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- Flutter
+- `hive` or `sqflite`
+- `fl_chart` for charts
+
+## 🚀 Features
+✅ Add daily expenses  
+✅ View summary chart  
+✅ Offline data persistence  
+
+## 🖼️ Demo Video
+🎥 *(Paste demo video link here)*
+
+## ▶️ Run
+```bash
+flutter run -d chrome
