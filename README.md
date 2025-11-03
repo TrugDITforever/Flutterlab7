@@ -23,8 +23,8 @@ Record daily expenses and view statistics (charts & summaries).
 ✅ Offline data persistence  
 
 ## 🖼️ Demo Video
-🎥 *(Paste demo video link here)*
-
+🎥 
+https://github.com/user-attachments/assets/d024bd8f-9a18-43a1-916f-dff6161bd72d
 ## ▶️ Run
 ```bash
 flutter run -d chrome
